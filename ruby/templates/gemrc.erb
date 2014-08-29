@@ -1,0 +1,10 @@
+<% if @header -%>
+<%= @header %>
+<% end -%>
+gem: <% unless @rdoc %>--no-rdoc <% end %><% unless @ri %>--no-ri <% end %>--bindir <%= @bindir %>
+<% if @sources.is_a? Array -%>
+:sources:
+<% @sources.each do |source| -%>
+ - <%= source %>
+<% end -%>
+<% end -%>

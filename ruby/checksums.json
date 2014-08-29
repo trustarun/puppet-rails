@@ -1,0 +1,14 @@
+{
+  "LICENSE": "7c90c1c37819996da3f20c6007a8e294",
+  "Modulefile": "fbcbd731c1c66c9d486d836ac9835cac",
+  "README.md": "402efa23eb9b0b7877432aa05677ab12",
+  "manifests/devel.pp": "f566c5b4ea4391ef18915648b4b4d2c4",
+  "manifests/gemrc.pp": "0258c35d09a47dc26fbd61ca4630c282",
+  "manifests/init.pp": "83c54ba3cf9480b1a11b561e38789b88",
+  "manifests/openbsd.pp": "0d1d6bebe581f3cb5a7b573dcc9ad3a2",
+  "manifests/params.pp": "644f21b86689a006f656847b330e2dc6",
+  "manifests/passenger.pp": "65481a1553d3706bb14bde3af04627cc",
+  "manifests/rack.pp": "9682944dbd8813883c46bc24f0b152f3",
+  "manifests/rake.pp": "ff3f6133650aa509afed384953ce3c5f",
+  "templates/gemrc.erb": "899afbda89a73d5e271b41a5d9acddb1"
+}
